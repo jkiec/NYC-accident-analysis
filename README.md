@@ -10,6 +10,7 @@ It contains the following parts:
 - analyzing and visualization data using Power BI (ETL process by Power Query, calculation using DAX).
 
 Files:
-- "import_data.ipynb" - for import data from .csv and Metostat library, processing data and load data to database execute Python code, 
+- "NYC_Collisions.csv" - row data with collisions,
+- "import_data.ipynb" - for import data from "NYC_Collisions.csv" and Metostat library, processing data and load data to database execute Python code, 
 - "create_database.sql" - for reset database execute SQL code,
 - "interactive_report_collision_NYC.pbix" - download file or watch the video below to see visualization of analyzed data. 
