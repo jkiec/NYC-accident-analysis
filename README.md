@@ -5,6 +5,11 @@ The goals of the project were:
 - compering information about accidents to current weather conditions.
 
 It contains the following parts:
-- collection data, cleaning data and load data to a database with Python (Pandas and Meteostat libraries),
+- collection data, cleaning data and load data to a database with Python (Pandas, Meteostat and Pymysql libraries),
 - data storage in the MySQL database,
-- analyzing and visualization data using Power BI (ETL process by Power Query, calculation using DAX). 
+- analyzing and visualization data using Power BI (ETL process by Power Query, calculation using DAX).
+
+Files:
+- "import_data.ipynb" - for import data from .csv and Metostat library, processing data and load data to database execute Python code, 
+- "create_database.sql" - for reset database execute SQL code,
+- "interactive_report_collision_NYC.pbix" - download file or watch the video below to see visualization of analyzed data. 
