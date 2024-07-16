@@ -15,15 +15,10 @@ Files:
 - "create_database.sql" - for reset database execute SQL code,
 - "interactive_report_collision_NYC.pbix" - download file or watch the video below to see visualization of analyzed data.
 
-https://github.com/user-attachments/assets/084fd62c-7711-4cbd-a395-6c5c8ff8dd43
+Overview of report content:
+Page 1: General information about collision location, contribution factor and vehicle type including number of victim. 
 
 
-
-https://github.com/user-attachments/assets/024ea3f5-302a-40f2-a958-b6f78a9df240
-
-
-
-https://github.com/user-attachments/assets/dc0063c7-18ec-44ef-8d57-de7f2e671b2b
 
 
   
