@@ -13,4 +13,17 @@ Files:
 - "NYC_Collisions.csv" - row data with collisions,
 - "import_data.ipynb" - for import data from "NYC_Collisions.csv" and Metostat library, processing data and load data to database execute Python code, 
 - "create_database.sql" - for reset database execute SQL code,
-- "interactive_report_collision_NYC.pbix" - download file or watch the video below to see visualization of analyzed data. 
+- "interactive_report_collision_NYC.pbix" - download file or watch the video below to see visualization of analyzed data.
+
+https://github.com/user-attachments/assets/084fd62c-7711-4cbd-a395-6c5c8ff8dd43
+
+
+
+https://github.com/user-attachments/assets/024ea3f5-302a-40f2-a958-b6f78a9df240
+
+
+
+https://github.com/user-attachments/assets/dc0063c7-18ec-44ef-8d57-de7f2e671b2b
+
+
+  
