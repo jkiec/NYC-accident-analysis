@@ -10,13 +10,16 @@ It contains the following parts:
 - analyzing and visualization data using Power BI (ETL process by Power Query, calculation using DAX).
 
 Files:
-- "NYC_Collisions.csv" - row data with collisions,
-- "import_data.ipynb" - for import data from "NYC_Collisions.csv" and Metostat library, processing data and load data to database execute Python code, 
+- "NYC_Collisions.csv" - row data with collisions information (date, location, contribution factor, vehicle type, number of victims,
+- "import_data.ipynb" - execute Python code for import data from "NYC_Collisions.csv" and Metostat library, processing data and load data to database, 
 - "create_database.sql" - for reset database execute SQL code,
 - "interactive_report_collision_NYC.pbix" - download file or watch the video below to see visualization of analyzed data.
+  
+https://github.com/user-attachments/assets/c5324a96-5611-4589-bd7d-b476e255aa19
 
-Overview of report content:
-Page 1: General information about collision location, contribution factor and vehicle type including number of victim. 
+
+
+
 
 
 
