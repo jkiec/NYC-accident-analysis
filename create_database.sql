@@ -1,8 +1,10 @@
+# Create or reset database
 DROP DATABASE IF EXISTS collision_database;
 CREATE DATABASE IF NOT EXISTS collision_database;
 USE collision_database;
 
-DROP TABLE IF EXISTS collision_database.collision;
+#Create two tables with restrictions
+
 CREATE TABLE collision_database.collision
 (
 collision_ID INT NOT NULL,
@@ -21,7 +23,6 @@ motorists_injured INT NOT NULL,
 motorists_killed INT NOT NULL
 );
 
-DROP TABLE IF EXISTS collision_database.weather;
 CREATE TABLE collision_database.weather
 (
 collision_ID INT NOT NULL, 
@@ -33,16 +34,3 @@ precipitation FLOAT NOT NULL,
 wind_speed FLOAT NOT NULL,
 air_pressure FLOAT NOT NULL
 );
-
-SELECT
-	*
-FROM
-	collision_database.collision;
-    
-SELECT
-	*
-FROM
-	collision_database.weather;
-    
-SELECT COUNT(*) FROM collision_database.collision;
-SELECT COUNT(*) FROM collision_database.weather;
